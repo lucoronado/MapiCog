@@ -17,7 +17,9 @@ Users request environmental information only when needed, reducing sensory overl
 📊 Results:
 
 ✅ Accuracy rates between 60% and 86% depending on task complexity
+
 ✅ Validated with both sighted and visually impaired volunteers
+
 ✅ Full prototype built for under $150 USD
 
 🛠️ Built with: ESP32 · Ultrasonic piezoelectric transducers · Bone conduction headphones · Custom PCB · 3D-printed enclosures · IMU · Firebase
